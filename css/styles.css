@@ -1,0 +1,53 @@
+/*
+    Colors
+    --
+    Main: #16259D
+    Secondary: #A9060E
+    Accent: #FFF525
+    Text Color: #575557
+
+    Typography
+    --
+    Head: font-family: 'Ultra', serif;
+    Body: font-family: 'Exo', sans-serif;
+*/
+
+
+blockquote {
+    text-align: center;
+    font-family: 'Exo', sans-serif;
+    text: bold;
+}
+
+
+
+h1,
+h2 {
+    font-family: 'Ultra', serif;
+    letter-spacing: 16px;
+}
+
+p {
+    font-family: 'Exo', sans-serif;
+}
+
+li {
+    text-align: center;
+    list-style: none;
+    display: inline-block;
+    color: #575557;
+    text-decoration: none;
+}
+
+a:link {
+    color: #575557;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #A9060E;
+}
+
+img {
+
+}
