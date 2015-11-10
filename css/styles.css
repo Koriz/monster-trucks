@@ -1,0 +1,82 @@
+/*
+    Color Palette
+    --
+    Pimary Color: #16259D (blue)
+    Secondary color: #A9060E (red)
+    Accent Color: #575557 (grey)
+    Text color: white
+    
+
+    Typograaphy
+    --
+    Headlines: font-family: 'Anton', sans-serif;
+    Body Copy: font-family: 'Open Sans Condensed', sans-serif;
+
+    Backgrounds:
+    --
+    http://subtlepatterns.com/?s=fun
+
+*/
+
+/*Global*/
+
+body {
+    background: url(../img/random_grey_variations_@2X.png)
+}
+
+
+
+/*Typography*/
+
+h1,
+h2 {
+    font-family: 'Anton', sans-serif;
+    color: white;
+    letter-spacing: 5px;
+}
+
+p {
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: white;
+}
+
+blockquote {
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+nav {
+    display: inline-block;
+    align-content: center;
+    font-family: 'Anton', sans-serif;
+    font-size: 1.5em;
+    color: white;
+
+}
+
+li {
+  list-style: none;
+  float: left;
+}
+
+a:link, 
+a:visited {
+    display: inline-block;
+    color: white;
+    width: 120px;
+    align-content: center;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
